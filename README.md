@@ -23,7 +23,7 @@ Abra o projeto em uma IDE como o IntelliJ IDEA
 
 Execute a função main() no arquivo principal.
 
-🖥 Funcionalidades
+ Funcionalidades
 Cadastrar novo contato
 
 Listar todos os contatos cadastrados

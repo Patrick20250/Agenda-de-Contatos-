@@ -23,7 +23,7 @@ Abra o projeto em uma IDE como o IntelliJ IDEA
 
 Execute a função main() no arquivo principal.
 
-🖥️ Funcionalidades
+🖥 Funcionalidades
 Cadastrar novo contato
 
 Listar todos os contatos cadastrados
@@ -32,10 +32,10 @@ Buscar contato pelo nome
 
 Sair do sistema
 
-📹 Vídeo explicando o projeto
-👉 Link do vídeo https://www.linkedin.com/feed/update/urn:li:activity:7325930634281926656/
+ Vídeo explicando o projeto
+ https://www.linkedin.com/feed/update/urn:li:activity:7325930634281926656/
 
-👤 Autor
+ Autor
 Patrick Wellington Santos
 GitHub: @Patrick20250
 Instagram: @eofc_triick
